@@ -1,6 +1,9 @@
 # directories
 data/
 
+# Docker resources
+docker_resources.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
